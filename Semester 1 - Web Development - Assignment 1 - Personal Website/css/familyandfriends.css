@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 
+}
+
+header{
+    background-image: url(images/friendsandfamily.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    text-align:center;
+    color: orangered;
+    font-family:serif;
+    font-style:italic
+}
+
+h2{
+    color:orangered;
+    text-align:center;
+    font-size:29px;
+}
+
+p{
+    color:white;
+    text-align:center;
+    padding-left:400px;
+    padding-right:400px;
+    font-size:140%;
+    
+}
+
+a:link{
+    color:orangered;
+    text-decoration:none;
+    font-size:130%;
+    text-align: center;
+    font-style:oblique
+}
+
+a:visited{
+    color:orange;
+}
+
+a:hover{
+    color:purple;
+}
+
+h3{
+    color:orangered;
+    text-align:center;
+    font-size:29px;
+}
+
+blockquote{
+    text-align:center;
+    color:white;
+    font-size:140%;
+}
